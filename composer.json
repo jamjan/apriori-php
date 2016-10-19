@@ -1,0 +1,13 @@
+{
+  "name": "jamjan/apriori-php",
+  "description": "Apriori Algorithm with PHP",
+  "autoload": {
+    "psr-0": {
+      "Zend\\Db\\": ""
+    }
+  },
+  "require": {
+    "php": ">=5.6",
+    "zendframework/zend-db":"2.0.*"
+  }
+}
