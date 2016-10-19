@@ -1,4 +1,5 @@
 puphpet/config-custom.yaml
 .idea/
 .vagrant/
-vendor/autoload.phpcomposer.lock
+vendor/
+composer.lock
